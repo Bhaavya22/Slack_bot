@@ -1,6 +1,7 @@
 # Project 1: Slack Bot with Slacker Library
 ## YOB Calculator Bot
 - This Slack bot calculates the age based on the provided year of birth (YOB).
+- This project implements a simple Slack bot using the Slacker library in Golang. The bot listens for a specific command (my yob is <year>) and calculates the user's age based on the provided birth year.
 
 ## Setup
 ### 1)Install dependencies:
@@ -30,6 +31,7 @@ Example:
 # Project 2: Slack File Uploader
 
 - This Go application uploads files to a specified Slack channel.
+- This project showcases a Golang program that utilizes the Slack Go library to upload files to a specified Slack channel. The code allows you to set your Slack bot token and channel ID as environment variables. You can then upload files to the specified channel using the Slack API.
 
 ## Setup
 ### 1)Install dependencies:
